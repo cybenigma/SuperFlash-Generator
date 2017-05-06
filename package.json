@@ -1,0 +1,19 @@
+{
+  "name": "superflash-generator",
+  "version": "1.0.0",
+  "description": "Creates Bsic and Cloze type flash cards and displays the creations",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybenigma/SuperFlash-Generator.git"
+  },
+  "author": "Michael Curtis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybenigma/SuperFlash-Generator/issues"
+  },
+  "homepage": "https://github.com/cybenigma/SuperFlash-Generator#readme"
+}
